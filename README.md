@@ -10,7 +10,7 @@
 
 🚀 &nbsp; [Site](https://laertefr.com) <br>
 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/laertefr/) <br>
-💼 &nbsp; [Email](mailto:laertefr02@gmail.com) <br>
+📧 &nbsp; [Email](mailto:laertefr02@gmail.com) <br>
 🐦 &nbsp; [Twitter](https://twitter.com/laertefr) <br>
 📸 &nbsp; [Instagram](https://instagram.com/laertefr) <br>
 
