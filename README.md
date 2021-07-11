@@ -4,7 +4,7 @@
  🧑🏼‍💻 &nbsp; I'm A <strong>Software Engineer</strong>, that has been working as a <strong>Full-stack</strong> developer since 2020. 
 
 🇧🇷 &nbsp; Living in Brazil, The Valentim Gentil, São Paulo <br>
-🚀 &nbsp; Junior Software Engineer [Ateliware](https://ateliware.com/) <br>
+🚀 &nbsp; Software Engineer Jr [Ateliware](https://ateliware.com/) <br>
 
 ### Find me elsewhere 🌎
 
