@@ -9,6 +9,9 @@
 ### Find me elsewhere 🌎
 
 🚀 [Site](https://laertefr.com) <br>
-🐦 [Twitter](https://twitter.com/lucas_montano) <br>
-📸 [Instagram](https://instagram.com/laertefr) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/laertefr/) <br>
+💼 [Email](mailto:laertefr02@gmail.com) <br>
+🐦 [Twitter](https://twitter.com/laertefr) <br>
+📸 [Instagram](https://instagram.com/laertefr) <br>
+
+
