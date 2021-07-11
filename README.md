@@ -1,7 +1,7 @@
 ### Hey, I'm Laerte Fernandes Rosa! 👋
 
  🇧🇷 I'm from Brazil
- 🧑🏼‍💻 I'm A <strong>Software Engineer</strong>, that has been working as a Full-stack developer since 2020. 
+ 🧑🏼‍💻 I'm A <strong>Software Engineer</strong>, that has been working as a <strong>Full-stack</strong> developer since 2020. 
 
 🇧🇷 Living in Brazil, The Valentim Gentil, São Paulo <br>
 🚀 Junior Software Engineer [Ateliware](https://ateliware.com/) <br>
