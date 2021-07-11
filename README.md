@@ -8,7 +8,7 @@
 
 ### Find me elsewhere 🌎
 
-🚀 [ Site](https://laertefr.com) <br>
+🚀⠀⠀⠀⠀⠀⠀⠀⠀⠀[Site](https://laertefr.com) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/laertefr/) <br>
 💼 [Email](mailto:laertefr02@gmail.com) <br>
 🐦 [Twitter](https://twitter.com/laertefr) <br>
