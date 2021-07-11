@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey, I'm Laerte Fernandes Rosa! 👋
 
-<!--
-**LaerteFr02/LaerteFr02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🇧🇷 I'm from Brazil
+ 🧑🏼‍💻 I'm A Software Engineer, that has been working as a Full-stack developer since 2020. 
 
-Here are some ideas to get you started:
+🇧🇷 Living in Brazil, The Valentim Gentil, São Paulo <br>
+🚀 Junior Software Engineer [Disney+](https://ateliware.com/) <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me elsewhere 🌎
+
+🚀 [Site](https://laertefr.com) <br>
+🐦 [Twitter](https://twitter.com/lucas_montano) <br>
+📸 [Instagram](https://instagram.com/laertefr) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/laertefr/) <br>
